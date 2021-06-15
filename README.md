@@ -8,7 +8,7 @@
 
 
 ## Motivation
-The goal was to create a simple movie recommender system based on the collaborative filtering technique on the dataset. The work is far from deployable, but my findings adequately proved the concepts.......
+The goal was to create a simple movie recommender system based on item-item similarity collaborative filtering technique. The work is far from deployable, but my findings adequately proved the concepts.......
 
 
 
