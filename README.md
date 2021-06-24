@@ -8,20 +8,19 @@
 
 ## Installations
 
-
-
-#### [Motivation]
- 
+The only package required to run the code is the Anaconda Distribution of Python. Any Python versions above 3.0 should work.  
 
 
 
-## File Description
+## File Descriptions
 
+Apart from this ReadMe Markdown, there are 3 items in the repo that really matter to us. The Movie_Lens_Recommender notebook showcase the steps for creating our recommender system. Other files contain the datasets I used. I included the data here because of the relatively small size. 
+In the `.ipynb`, Markdown cells were used to explain the thought-process behind each step. 
 
 
 ## How-to-
 
-
+With the required installation, it's as simple as following the steps described in the notebook
 
 
 
