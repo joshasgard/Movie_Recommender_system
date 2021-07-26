@@ -1,4 +1,5 @@
 # Movie_Recommender_system
+![jeremy-yap-J39X2xX_8CQ-unsplash](https://user-images.githubusercontent.com/67300602/126975823-7ccd4bd9-9b24-411a-bd7d-4c527c0e1871.jpg)
 
 ### Table of Contents
 
