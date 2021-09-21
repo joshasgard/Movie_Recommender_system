@@ -11,10 +11,10 @@
 
 
 ## Introduction <a href = Introduction></a>
-- This is my trial at a project exercise during a <a href = https://github.com/Pierian-Data> Pierian Data Inc. </a> Bootcamp. 
 - The goal was to create a simple movie recommender system based on the item-item similarity collaborative filtering technique developed by <a href= https://www.amazon.science/the-history-of-amazons-recommendation-algorithm> Amazon </a>. 
 - The dataset used is the famous <a href = https://grouplens.org/datasets/movielens/> MovieLens dataset</a>, commonly used when implementing and testing recommender engines. It contains 100k movie ratings from 943 users and a selection of 1682 movies.
 - The work is far from deployable, but the process sufficiently provided movie recommendations based on similarities in how users rate the movies.
+- This is my trial at a project exercise during a <a href = https://github.com/Pierian-Data> Pierian Data Inc. </a> Bootcamp. 
 
 ## Installations <a href = Installation></a>
 
